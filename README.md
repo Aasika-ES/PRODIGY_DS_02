@@ -14,6 +14,8 @@ CONTACT INFO
 
 Feel free to reach out to me for any queries or feedbacks regarding this project.
 
-My LinkedIn profile: LinkedIn
+My LinkedIn profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-aasikaes-blue)](https://www.linkedin.com/in/aasikaes/)
+
+
 
 Email: aasikasivaji@gmail.com
